@@ -13,7 +13,6 @@
           background-position: center;
           background-size: cover;
       }
-
       .container {
         width: 100%;
         padding-right: 15px;
@@ -21,12 +20,10 @@
         margin-right: auto;
         margin-left: auto;
       }
-
       .image-container {
         text-align: center;
         width: 100%;
       }
-
       .links-container {
         display: flex;
         flex-direction: column;
@@ -34,19 +31,16 @@
         align-items: center;
         gap: 20px;
       }
-
       .link {
         min-width: 50% !important;
       }
-
-      .w3-purple, .w3-hover-purple:hover {
+       .w3-purple, .w3-hover-purple:hover {
         color: #fff!important;
         background-color: rgba(156, 39, 176, 0.6) !important;
       }
     </style>
   </head>
-
-  <body class="w3-white">
+<body class="w3-white">
     <div class="container">
       <div class="image-container">
         <img src="https://i.imgur.com/MwcMXg8.jpeg"
@@ -55,14 +49,11 @@
         style="max-width: 200%; 
         height: 250px;
         border-radius: 1%;" />
-       
-
-<div class="w3-text-white">
+       <div class="w3-text-white">
           <p class="w3-text-white w3-large">Welcome to <span class="w3-tag w3-large w3-round w3-black w3-text-white"><strong>Chấn Khang</strong></span></p>
           <p class="w3-large"><strong></strong></p>
         </div>
-
-        <div class="links-container">
+<div class="links-container">
           <a href="https://www.facebook.com/profile.php?id=100088077474675" class="w3-button w3-hover-pink w3-large w3-round w3-purple w3-border link" target="_blank"><i class="fab fa-facebook"></i> Facebook</a>
           <a href="https://www.instagram.com/chankhangowo/" class="w3-button w3-hover-pink w3-large w3-round w3-purple w3-border link" target="_blank"><i class="fab fa-instagram"></i> Instagram</a>
           <a href="https://chat.zalo.me/" class="w3-button w3-hover-pink w3-large w3-round w3-purple w3-border link" target="_blank"><i<class ="fab fa-zalo"></i>Zalo</a>
